@@ -44,9 +44,9 @@
 "user10name":"",
 
 "user1build":"dev",
-"user2build":"live",
+"user2build":"beta",
 "user3build":"beta",
-"user4build":"beta",
+"user4build":"live",
 "user5build":"live",
 "user6build":"",
 "user7build":"",
@@ -67,9 +67,9 @@
 
 
 "user1beta":"yes",
-"user2beta":"no",
+"user2beta":"yes",
 "user3beta":"yes",
-"user4beta":"yes",
+"user4beta":"no",
 "user5beta":"no",
 "user6beta":"no",
 "user7beta":"no",
