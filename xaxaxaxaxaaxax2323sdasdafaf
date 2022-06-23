@@ -4,13 +4,15 @@
 "loaderbuild1":"debug",
 "loaderuid1":"1",
 "loaderbeta1":"yes",
+"loaderbanned1":"no",
 
 "loaderversion2":"claimed",
 "loaderhwid2":"rVzGlSmr20270411417862768R80PG20270411dlIkG78I7Yra911926338Y",
 "loadername2":"izue",
-"loaderbuild2":"beta",
+"loaderbuild2":"live",
 "loaderuid2":"2",
 "loaderbeta2":"yes",
+"loaderbanned2":"no",
 
 "loaderversion3":"notclaimed",
 "loaderhwid3":"",
@@ -18,6 +20,7 @@
 "loaderbuild3":"live",
 "loaderuid3":"3",
 "loaderbeta3":"no",
+"loaderbanned3":"no",
 
 "loaderversion4":"notclaimed",
 "loaderhwid4":"",
@@ -25,10 +28,12 @@
 "loaderbuild4":"live",
 "loaderuid4":"4",
 "loaderbeta4":"no",
+"loaderbanned4":"no",
 
 "loaderversion5":"notclaimed",
 "loaderhwid5":"",
 "loadername5":"",
 "loaderbuild5":"live",
 "loaderuid5":"3",
-"loaderbeta5":"no"}
+"loaderbeta5":"no",
+"loaderbanned5":"no"}
