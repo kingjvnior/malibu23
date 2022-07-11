@@ -38,12 +38,12 @@
 "loaderbeta5":"no",
 "loaderbanned5":"no",
 
-"loaderversion6":"notclaimed",
-"loaderhwid6":"",
-"loadername6":"",
-"loaderbuild6":"live",
+"loaderversion6":"claimed",
+"loaderhwid6":"290922247002614783636FbCq4URSQTLlpq1Cnyc1LLO4700261TLfIY",
+"loadername6":"ygdraaa2",
+"loaderbuild6":"beta",
 "loaderuid6":"6",
-"loaderbeta6":"no",
+"loaderbeta6":"yes",
 "loaderbanned6":"no",
 
 "loaderversion7":"notclaimed",
@@ -75,7 +75,7 @@
 "loadername10":"ygdraaa",
 "loaderbuild10":"beta",
 "loaderuid10":"10",
-"loaderbeta10":"beta",
+"loaderbeta10":"yes",
 "loaderbanned10":"no",
 
 "versionloader":"1.6",
